@@ -14,3 +14,7 @@ h3 {
   background-color: black;
   color: aqua;
 }
+
+img {
+  border: 5px solid #cb0404;
+}
