@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+  background-color: #2fdef5;
+  color: white;
+  font-size: 20px;
+}
+
+h2 {
+  background-color: black;
+  color: rgb(10, 198, 10);
+}
+
+h3 {
+  background-color: black;
+  color: aqua;
+}
